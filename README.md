@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Isaac 👋
 
-<!--
-**Isaac-Kasoka/Isaac-Kasoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GRC analyst turning complex risks into clear decisions.**  
+Curious by nature. Practical by approach.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m building a portfolio that connects governance, risk and compliance with practical projects. I use this space to document what I’m learning, how I apply it, and the evidence behind my findings.
+
+## Areas of interest
+
+- Governance, risk management and compliance
+- Control assessment and assurance
+- Technology and business processes
+- Research, analysis and continuous improvement
+
+## How I approach learning
+
+Understand the requirement. Apply it in practice. Test the result. Document the learning.
+
+## Let’s connect
+
+I’m interested in exchanging ideas about GRC, practical learning and professional development.
+
+## Connect with me on LinkedIn]
+https://www.linkedin.com/in/isaackasoka)
